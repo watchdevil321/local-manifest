@@ -1,31 +1,19 @@
-
-
-Manifest
 <!-- Device Common -->
 <remote name="rrnanairo" fetch="https://github.com/rrnanairo" />
 <project path="device/xiaomi/sdm660-common" name="device_xiaomi_sdm660-common" remote="rrnanairo" branch="11" />
 
 <!-- Vendor Common -->
-<remote name="rrnanairo"
-fetch="https://github.com/rrnanairo" />
-<project patch="vendor/xiaomi/sdm660-common"
-name="vendor_xiaomi_sdm660-common"
-remote="rrnanairo" branch="eleven" />
+<remote name="rrnanairo" fetch="https://github.com/rrnanairo" />
+<project path="vendor/xiaomi/sdm660-common" name="vendor_xiaomi_sdm660-common" remote="rrnanairo" branch="eleven" />
 
 <!-- Device Device -->
 <remote name="rrnanairo" fetch="https://github.com/rrnanairo" />
-<project path="device/xiaomi/platina" name="device_xiaomi_platina"
-remote="rrnanairo" branch="eleven" />
+<project path="device/xiaomi/platina" name="device_xiaomi_platina" remote="rrnanairo" branch="eleven" />
 
 <!-- Vendor Device -->
 <remote name="rrnanairo" fetch="https://github.com/rrnanairo" />
-<project path="vendor/xiaomi/platina" name="vendor_xiaomi_platina"
-remote="rrnanairo" branch="eleven" />
+<project path="vendor/xiaomi/platina" name="vendor_xiaomi_platina" remote="rrnanairo" branch="eleven" />
 
 <!-- Kernel -->
 <remote name="hanifardhani" fetch="https://github.com/hanifardhani" />
-<project path="kernel/xiaomi/sdm660" name="platinum_kernel_xiaomi_platina"
-remote="hanifardhani" branch="eas" />
-
-
-
+<project path="kernel/xiaomi/sdm660" name="platinum_kernel_xiaomi_platina" remote="hanifardhani" branch="eas" />
