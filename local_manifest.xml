@@ -7,8 +7,8 @@
 <project path="vendor/xiaomi/sdm660-common" name="vendor_xiaomi_sdm660-common" remote="rrnanairo" branch="eleven" />
 
 <!-- Device Device -->
-<remote name="rrnanairo" fetch="https://github.com/rrnanairo" />
-<project path="device/xiaomi/platina" name="device_xiaomi_platina" remote="rrnanairo" branch="eleven" />
+<remote name="Vprayoga" fetch="https://github.com/watchdevil321" />
+<project path="device/xiaomi/platina" name="device_xiaomi_platina" remote="Vprayoga" branch="eleven" />
 
 <!-- Vendor Device -->
 <remote name="rrnanairo" fetch="https://github.com/rrnanairo" />
